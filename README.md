@@ -23,4 +23,3 @@ Visualize and analyze sales performance using Power BI.
 ## 📁 Files Included
 - Sales_Dashboard.pbix
 - Screenshots
-- (Optional) Walkthrough Video
